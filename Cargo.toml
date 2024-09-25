@@ -1,0 +1,8 @@
+[package]
+name = "SHA_256_Hash_in_Rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sha2 = "0.10.5"
+hex = "0.4"
